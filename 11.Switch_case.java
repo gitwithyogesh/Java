@@ -63,3 +63,5 @@ class Switch_case {
         System.out.println("Today is " + dayName);
     }
 }
+
+
