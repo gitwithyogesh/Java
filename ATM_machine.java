@@ -45,7 +45,7 @@ class ATM {
                         int credit = sc.nextInt();
                         bal += credit;
 
-                        System.out.println("Amount Debited Successfully , Updated Balance " + bal);
+                        System.out.println("Amount Credited Successfully , Updated Balance " + bal);
                         break;
 
                     case 3:
